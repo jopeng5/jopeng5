@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jolene aka @jopeng5!
 - 👀 I’m interested in web dev & boba.
-- 🌱 I’m currently learning HTML/CSS/JS.
+- 🌱 I’m currently learning HTML/CSS Flexbox and Grid with JS up next!
 - 💞️ I’m looking to collaborate on fun & well-designed websites.
 - 📫 How to reach me: GitHub or Discord
 
