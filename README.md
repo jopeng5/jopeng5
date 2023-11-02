@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jolene aka @jopeng5!
+- 👋 Hi, I’m Jolene (or Jo)!
 - 👀 I’m interested in web dev & boba.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on fun & well-designed websites.
 - 📫 How to reach me: GitHub or Discord
 
 <!---
